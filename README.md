@@ -1,2 +1,2 @@
 # machine-learning
-Machine learning project with video game sales dataset
+Machine learning project with video game sales and music dataset
